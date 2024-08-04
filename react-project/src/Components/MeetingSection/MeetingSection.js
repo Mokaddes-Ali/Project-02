@@ -34,15 +34,10 @@ export default class MeetingSection extends Component {
                                           Meet your customers, with live video chat</h1>
                                           <h5 className='mt-4'>Pri fiu nib et se git ti a. Lac i n purus ac am et pel len tes que al iq uam eni m.</h5>
                                           <h6 className='mt-3'>Lorem ipsum dolor sit ame t, consectetur adi pis eli t. Sit en im nec, pro in fa uci bus ni bh et sa gi tti a. Lac ini purus ac ame t pel len tes que al iq uam eni m.</h6>
-
-
                                     </Col>
-
                               </Row>
                         </Container>
-                        </Container>
-
-                    
+                        </Container>  
                </Fragment>
     )
   }
